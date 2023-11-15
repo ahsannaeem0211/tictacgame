@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tictacgame/static/css/main.0e3aba96.css",
+    "main.js": "/tictacgame/static/js/main.ed5a8f0b.js",
+    "static/js/787.d4aba7ab.chunk.js": "/tictacgame/static/js/787.d4aba7ab.chunk.js",
+    "static/media/bg-pattern-dark.png": "/tictacgame/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/tictacgame/index.html",
+    "main.0e3aba96.css.map": "/tictacgame/static/css/main.0e3aba96.css.map",
+    "main.ed5a8f0b.js.map": "/tictacgame/static/js/main.ed5a8f0b.js.map",
+    "787.d4aba7ab.chunk.js.map": "/tictacgame/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3aba96.css",
+    "static/js/main.ed5a8f0b.js"
+  ]
+}
